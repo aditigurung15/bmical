@@ -1,0 +1,31 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#root{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: bisque;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+main h1{
+    background-color: rgb(43, 43, 112);
+    color: white;
+    padding: 20px;
+}
+
+.calculate{
+    background-color: white;
+    padding: 20px;
+}
